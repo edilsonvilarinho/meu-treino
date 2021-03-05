@@ -4,7 +4,7 @@
 
 # Execution
 
-![alt text](https://github.com/edilsonvilarinho/meu-treino/blob/master/img/Android-Emulator-Pixel_4_XL_API_26_5554-2021-02-25-23-18-03.gif)
+![alt text](https://github.com/edilsonvilarinho/meu-treino/blob/master/img/Android-Emulator-Pixel_3_XL_API_26_5554-2021-03-04-21-19-29.gif)
 
 ## Dependencies 
 

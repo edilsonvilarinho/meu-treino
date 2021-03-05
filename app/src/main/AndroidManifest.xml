@@ -9,6 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.MeuTreino">
+        <activity
+            android:name=".DiaDaSemanaActivity"
+            android:label="@string/title_activity_dia_da_semana2"></activity>
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
