@@ -9,3 +9,5 @@
 ## Dependencies 
 
 ## Contributors 
+
+- **Rafael Leite** [Linkedin](https://www.linkedin.com/in/rafaelclu/) - [GitHub](https://github.com/rafaelclu)
